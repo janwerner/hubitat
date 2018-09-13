@@ -8,4 +8,4 @@ This is a Hubitat driver that will deliver notifications via an [IFTTT Webhook](
 * Install the Hubitat driver and enter your credentials (get your IFTTT Webhooks API key [here](https://ifttt.com/services/maker_webhooks/settings))
 * Install the IFTTT Android or iOS app
 * You might need to [exclude](https://gizmodo.com/how-to-exclude-certain-apps-from-androids-battery-savin-1742064352) the IFTTT app from Doze to receive notifications more or less instantaneously
-* You shoudl be aware that IFTTT might not be as reliable as other services - but it's free :)
+* IFTTT might not be as reliable as other services - but it's free :)
